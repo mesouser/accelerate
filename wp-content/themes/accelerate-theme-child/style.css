@@ -46,3 +46,34 @@
 	color: #45ac9d;
 	text-transform: uppercase;
 }
+
+
+.case-content {
+	margin-top: 8%;
+}
+.column1 {
+	float: left;
+	width: 35%;
+	margin-right: 30px;
+}
+.colum1 h2 {
+	font-family: 'Montserrat';
+}
+.subtitle {
+	color: lightgrey;
+}
+.column2 {
+	float: left;
+	width: 60%;
+}
+.column2 img {
+	margin-bottom: 10%;
+}
+
+
+
+
+
+
+
+
