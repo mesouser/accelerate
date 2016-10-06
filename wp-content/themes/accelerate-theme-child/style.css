@@ -47,31 +47,27 @@
 	text-transform: uppercase;
 }
 
-/*
-.case-content {
+.case-study {
 	margin-top: 8%;
 }
-.column1 {
+.case-study-sidebar {
 	float: left;
 	width: 35%;
 	margin-right: 30px;
 }
-.colum1 h2 {
+.case-study-sidebar h2 {
 	font-family: 'Montserrat';
 }
-.subtitle {
+/*.case-study-sidebar h5 {
 	color: lightgrey;
-}
-.column2 {
+}*/
+.case-study-images{
 	float: left;
 	width: 60%;
 }
-.column2 img {
+.case-study-images img {
 	margin-bottom: 10%;
 }
-*/
-
-
 
 
 
