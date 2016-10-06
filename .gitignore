@@ -1,4 +1,6 @@
+
 *~
+.png
 .DS_Store
 .svn
 .cvs
@@ -96,3 +98,4 @@ wp-content/mysql.sql
 *.asf
 *.wmv
 *.avi
+
