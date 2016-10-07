@@ -23,7 +23,7 @@ get_header(); ?>
 		$image_3= get_field('image_3'); ?>
 
 	<?php endwhile; // end of the loop. ?>
-
+	</div><!-- #content -->
 
 	<article class="case-study">
 		<aside class="case-study-sidebar">			
@@ -52,7 +52,7 @@ get_header(); ?>
 
 	</article>	
 
-	</div><!-- #content -->
+	
 
 </div><!-- #primary -->
 
