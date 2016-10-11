@@ -71,17 +71,33 @@
 .case-study {
 	margin-top: 8%;
 }
+
+.case-study:after {
+	content: "";
+  	display: table;
+  	clear: both;
+}
+
 .case-study-sidebar {
 	float: left;
 	width: 35%;
-	margin-right: 30px;
+	margin-right: 45px;
 }
 .case-study-sidebar h2 {
 	font-family: 'Montserrat', 'OpenSans', Arial, sans-serif;
 }
-/*.case-study-sidebar h5 {
-	color: lightgrey;
-}*/
+
+.case-study-sidebar h5 {
+	color: #b8b8b8;
+	font-size: 16px;
+	margin-top: 5px;
+	margin-bottom: 25px;
+}
+
+.case-study-sidebar p {
+	margin-top: 35px;
+}
+
 .case-study-images{
 	float: left;
 	width: 60%;
